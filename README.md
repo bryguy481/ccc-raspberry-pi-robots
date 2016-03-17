@@ -1,2 +1,2 @@
 # ccc-raspberry-pi-robots
-Code and less plans for the Copper County Coders Raspberry Pi robot project.
+Code and lesson plans for the Copper County Coders Raspberry Pi robot project.
